@@ -408,3 +408,21 @@ const u16 gMetatiles_HallOfFame[] = INCBIN_U16("data/tilesets/secondary/hall_of_
 const u16 gMetatileAttributes_HallOfFame[] = INCBIN_U16("data/tilesets/secondary/hall_of_fame_frlg/metatile_attributes.bin");
 
 #endif // IS_FRLG
+
+const u16 gMetatiles_custom_CoastalCave[] = INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/metatiles.bin");
+const u16 gMetatileAttributes_custom_CoastalCave[] = INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/metatile_attributes.bin");
+
+const u16 gMetatiles_custom_SewerClean[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/metatiles.bin");
+const u16 gMetatileAttributes_custom_SewerClean[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/metatile_attributes.bin");
+
+const u16 gMetatiles_custom_SewerGreen[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_green/metatiles.bin");
+const u16 gMetatileAttributes_custom_SewerGreen[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_green/metatile_attributes.bin");
+
+const u16 gMetatiles_custom_Underwater[] = INCBIN_U16("data/tilesets/primary/custom_underwater/metatiles.bin");
+const u16 gMetatileAttributes_custom_Underwater[] = INCBIN_U16("data/tilesets/primary/custom_underwater/metatile_attributes.bin");
+
+const u16 gMetatiles_custom_UnderwaterReef[] = INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/metatiles.bin");
+const u16 gMetatileAttributes_custom_UnderwaterReef[] = INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/metatile_attributes.bin");
+
+const u16 gMetatiles_custom_UnderwaterRuins[] = INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/metatiles.bin");
+const u16 gMetatileAttributes_custom_UnderwaterRuins[] = INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/metatile_attributes.bin");

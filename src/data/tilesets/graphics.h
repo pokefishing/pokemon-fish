@@ -3038,3 +3038,117 @@ const u16 ALIGNED(4) gTilesetPalettes_General_Frlg[][16] =
 const u32 gTilesetTiles_General_Frlg[] = INCGFX_U32("data/tilesets/primary/general_frlg/tiles.png", ".4bpp.smol");
 
 #endif // IS_FRLG
+
+const u16 gTilesetPalettes_custom_CoastalCave[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_custom_CoastalCave[] = INCBIN_U32("data/tilesets/secondary/custom_coastal_cave/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_custom_SewerClean[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_custom_SewerClean[] = INCBIN_U32("data/tilesets/secondary/custom_sewer_clean/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_custom_SewerGreen[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_custom_SewerGreen[] = INCBIN_U32("data/tilesets/secondary/custom_sewer_green/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_custom_Underwater[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/custom_underwater/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_custom_Underwater[] = INCBIN_U32("data/tilesets/primary/custom_underwater/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_custom_UnderwaterReef[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_reef/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_custom_UnderwaterReef[] = INCBIN_U32("data/tilesets/secondary/custom_underwater_reef/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_custom_UnderwaterRuins[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_underwater_ruins/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_custom_UnderwaterRuins[] = INCBIN_U32("data/tilesets/secondary/custom_underwater_ruins/tiles.4bpp.lz");

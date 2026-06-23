@@ -1541,3 +1541,69 @@ const struct Tileset gTileset_HallOfFame =
 };
 
 #endif // IS_FRLG
+
+const struct Tileset gTileset_custom_CoastalCave =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_custom_CoastalCave,
+    .palettes = gTilesetPalettes_custom_CoastalCave,
+    .metatiles = gMetatiles_custom_CoastalCave,
+    .metatileAttributes = gMetatileAttributes_custom_CoastalCave,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_custom_SewerClean =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_custom_SewerClean,
+    .palettes = gTilesetPalettes_custom_SewerClean,
+    .metatiles = gMetatiles_custom_SewerClean,
+    .metatileAttributes = gMetatileAttributes_custom_SewerClean,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_custom_SewerGreen =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_custom_SewerGreen,
+    .palettes = gTilesetPalettes_custom_SewerGreen,
+    .metatiles = gMetatiles_custom_SewerGreen,
+    .metatileAttributes = gMetatileAttributes_custom_SewerGreen,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_custom_Underwater =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_custom_Underwater,
+    .palettes = gTilesetPalettes_custom_Underwater,
+    .metatiles = gMetatiles_custom_Underwater,
+    .metatileAttributes = gMetatileAttributes_custom_Underwater,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_custom_UnderwaterReef =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_custom_UnderwaterReef,
+    .palettes = gTilesetPalettes_custom_UnderwaterReef,
+    .metatiles = gMetatiles_custom_UnderwaterReef,
+    .metatileAttributes = gMetatileAttributes_custom_UnderwaterReef,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_custom_UnderwaterRuins =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_custom_UnderwaterRuins,
+    .palettes = gTilesetPalettes_custom_UnderwaterRuins,
+    .metatiles = gMetatiles_custom_UnderwaterRuins,
+    .metatileAttributes = gMetatileAttributes_custom_UnderwaterRuins,
+    .callback = NULL,
+};
