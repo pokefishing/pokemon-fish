@@ -1552,3 +1552,14 @@ const struct Tileset gTileset_custom_CoastalCave =
     .metatileAttributes = gMetatileAttributes_custom_CoastalCave,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_custom_SewerClean =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_custom_SewerClean,
+    .palettes = gTilesetPalettes_custom_SewerClean,
+    .metatiles = gMetatiles_custom_SewerClean,
+    .metatileAttributes = gMetatileAttributes_custom_SewerClean,
+    .callback = NULL,
+};

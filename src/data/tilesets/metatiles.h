@@ -411,3 +411,6 @@ const u16 gMetatileAttributes_HallOfFame[] = INCBIN_U16("data/tilesets/secondary
 
 const u16 gMetatiles_custom_CoastalCave[] = INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/metatiles.bin");
 const u16 gMetatileAttributes_custom_CoastalCave[] = INCBIN_U16("data/tilesets/secondary/custom_coastal_cave/metatile_attributes.bin");
+
+const u16 gMetatiles_custom_SewerClean[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/metatiles.bin");
+const u16 gMetatileAttributes_custom_SewerClean[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/metatile_attributes.bin");
