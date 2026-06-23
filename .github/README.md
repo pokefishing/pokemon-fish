@@ -12,4 +12,4 @@ This project is based off RHH's [pokeemerald-expansion](https://github.com/rh-hi
 
 ## Discord
 
-[![](https://dcbadge.limes.pink/api/server/eZJrAkwxKF)](https://github.com/rh-hideout/pokeemerald-expansion/blob/master/CREDITS.md)
+[![](https://dcbadge.limes.pink/api/server/eZJrAkwxKF)](https://discord.com/invite/eZJrAkwxKF)
