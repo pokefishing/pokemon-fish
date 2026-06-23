@@ -1,0 +1,2 @@
+fish_CoastalCave_MapScripts::
+	.byte 0
