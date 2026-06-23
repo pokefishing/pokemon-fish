@@ -1741,3 +1741,5 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/fish_CoastalCave/scripts.inc"
 
 	.include "data/maps/fish_SewerClean/scripts.inc"
+
+	.include "data/maps/fish_SewerGreen/scripts.inc"

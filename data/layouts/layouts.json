@@ -9343,6 +9343,16 @@
       "secondary_tileset": "gTileset_custom_SewerClean",
       "border_filepath": "data/layouts/fish_SewerClean/border.bin",
       "blockdata_filepath": "data/layouts/fish_SewerClean/map.bin"
+    },
+    {
+      "id": "LAYOUT_FISH_SEWER_GREEN",
+      "name": "fish_SewerGreen_Layout",
+      "width": 25,
+      "height": 25,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_custom_SewerGreen",
+      "border_filepath": "data/layouts/fish_SewerGreen/border.bin",
+      "blockdata_filepath": "data/layouts/fish_SewerGreen/map.bin"
     }
   ]
 }

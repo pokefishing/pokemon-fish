@@ -414,3 +414,6 @@ const u16 gMetatileAttributes_custom_CoastalCave[] = INCBIN_U16("data/tilesets/s
 
 const u16 gMetatiles_custom_SewerClean[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/metatiles.bin");
 const u16 gMetatileAttributes_custom_SewerClean[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_clean/metatile_attributes.bin");
+
+const u16 gMetatiles_custom_SewerGreen[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_green/metatiles.bin");
+const u16 gMetatileAttributes_custom_SewerGreen[] = INCBIN_U16("data/tilesets/secondary/custom_sewer_green/metatile_attributes.bin");

@@ -3076,3 +3076,22 @@ const u16 gTilesetPalettes_custom_SewerClean[][16] =
 };
 
 const u32 gTilesetTiles_custom_SewerClean[] = INCBIN_U32("data/tilesets/secondary/custom_sewer_clean/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_custom_SewerGreen[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/custom_sewer_green/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_custom_SewerGreen[] = INCBIN_U32("data/tilesets/secondary/custom_sewer_green/tiles.4bpp.lz");
