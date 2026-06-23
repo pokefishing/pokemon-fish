@@ -9360,7 +9360,7 @@
       "width": 25,
       "height": 25,
       "primary_tileset": "gTileset_custom_Underwater",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_custom_UnderwaterReef",
       "border_filepath": "data/layouts/fish_Underwater/border.bin",
       "blockdata_filepath": "data/layouts/fish_Underwater/map.bin"
     }

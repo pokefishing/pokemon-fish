@@ -8,6 +8,19 @@ Temporary list of credits to add to as we go
 - Heartlessdragoon (RSE Rips)
 - Rahtak for the insertable reformat and submission
 
+### Underwater Ruins (TAAR):
+- Hek (https://www.deviantart.com/hek-el-grande)
+- Ekat (https://www.deviantart.com/ekat99)
+- Vurtax (FRLG Rips)
+- Heartlessdragoon (RSE Rips)
+- Rahtak for the insertable reformat and submission
+
+### Underwater Reef (TAAR):
+- Ekat (https://www.deviantart.com/ekat99)
+- Vurtax
+- Heartlessdragoon (RSE Rips)
+- Rahtak for the insertable reformat and submission
+
 ### Coastal Cave (TAAR):
 - Ekat
 - Heartlessdragoon 

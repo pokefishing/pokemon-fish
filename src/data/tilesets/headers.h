@@ -1585,3 +1585,25 @@ const struct Tileset gTileset_custom_Underwater =
     .metatileAttributes = gMetatileAttributes_custom_Underwater,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_custom_UnderwaterReef =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_custom_UnderwaterReef,
+    .palettes = gTilesetPalettes_custom_UnderwaterReef,
+    .metatiles = gMetatiles_custom_UnderwaterReef,
+    .metatileAttributes = gMetatileAttributes_custom_UnderwaterReef,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_custom_UnderwaterRuins =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_custom_UnderwaterRuins,
+    .palettes = gTilesetPalettes_custom_UnderwaterRuins,
+    .metatiles = gMetatiles_custom_UnderwaterRuins,
+    .metatileAttributes = gMetatileAttributes_custom_UnderwaterRuins,
+    .callback = NULL,
+};
