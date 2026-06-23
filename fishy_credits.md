@@ -2,6 +2,12 @@ Temporary list of credits to add to as we go
 
 # Graphics
 ## Tilesets
+### Underwater Primary (TAAR):
+- Ekat (https://www.deviantart.com/ekat99)
+- Vurtax (FRLG Rips)
+- Heartlessdragoon (RSE Rips)
+- Rahtak for the insertable reformat and submission
+
 ### Coastal Cave (TAAR):
 - Ekat
 - Heartlessdragoon 

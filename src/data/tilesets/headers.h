@@ -1574,3 +1574,14 @@ const struct Tileset gTileset_custom_SewerGreen =
     .metatileAttributes = gMetatileAttributes_custom_SewerGreen,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_custom_Underwater =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_custom_Underwater,
+    .palettes = gTilesetPalettes_custom_Underwater,
+    .metatiles = gMetatiles_custom_Underwater,
+    .metatileAttributes = gMetatileAttributes_custom_Underwater,
+    .callback = NULL,
+};

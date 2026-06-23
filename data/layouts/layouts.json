@@ -9353,6 +9353,16 @@
       "secondary_tileset": "gTileset_custom_SewerGreen",
       "border_filepath": "data/layouts/fish_SewerGreen/border.bin",
       "blockdata_filepath": "data/layouts/fish_SewerGreen/map.bin"
+    },
+    {
+      "id": "LAYOUT_FISH_UNDERWATER",
+      "name": "fish_Underwater_Layout",
+      "width": 25,
+      "height": 25,
+      "primary_tileset": "gTileset_custom_Underwater",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/fish_Underwater/border.bin",
+      "blockdata_filepath": "data/layouts/fish_Underwater/map.bin"
     }
   ]
 }
