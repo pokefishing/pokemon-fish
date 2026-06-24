@@ -1,4 +1,55 @@
-## Credits ✨
+# Credits ✨
+
+## Project Credits
+
+### Overworlds
+
+| Sprite     | Name | Artist  |
+| ---------- | ---- | ------- |
+| ![Fisherman (Gen 1)](graphics/object_events/pics/people/fishermangen1_m.png) | Fisherman (Gen 1) | (FRLG) |
+| ![Fisherman (Gen 5)](graphics/object_events/pics/people/fishermangen5_m.png) | Fisherman (Gen 5) | Mashirosakura |
+| ![Fisherman (Gen 6)](graphics/object_events/pics/people/fishermangen6_m.png) | Fisherman (Gen 6) | aveontrainer |
+| ![Sailor (Gen 4)](graphics/object_events/pics/people/sailorgen4_m.png) | Sailor (Gen 4) | Mashirosakura |
+
+
+### Tilesets
+
+#### Underwater Primary (TAAR):
+- Ekat (https://www.deviantart.com/ekat99)
+- Vurtax (FRLG Rips)
+- Heartlessdragoon (RSE Rips)
+- Rahtak for the insertable reformat and submission
+
+#### Underwater Ruins (TAAR):
+- Hek (https://www.deviantart.com/hek-el-grande)
+- Ekat (https://www.deviantart.com/ekat99)
+- Vurtax (FRLG Rips)
+- Heartlessdragoon (RSE Rips)
+- Rahtak for the insertable reformat and submission
+
+#### Underwater Reef (TAAR):
+- Ekat (https://www.deviantart.com/ekat99)
+- Vurtax
+- Heartlessdragoon (RSE Rips)
+- Rahtak for the insertable reformat and submission
+
+#### Coastal Cave (TAAR):
+- Ekat
+- Heartlessdragoon 
+- Vurtax
+- Thedeadheroalistar
+- Zein
+- Rahtak for the insertable reformat and submission
+
+#### Clean & Green Sewers (TAAR):
+- https://www.deviantart.com/aveontrainer/art/Sewer-Tileset-850245031
+- Magiscarf (the platform and the round sewer drain with water coming out)
+- Kyle Dove (the rusty looking drum barrel)
+- Kane89 (the pipes)
+- Aveontrainer (Compiled all assets to one sheet)
+- Rahtak (Clear water variants of tiles)
+
+## Expansion Credits
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
