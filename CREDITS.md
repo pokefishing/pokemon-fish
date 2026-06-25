@@ -10,6 +10,13 @@
 | ![Fisherman (Gen 5)](graphics/object_events/pics/people/fishermangen5_m.png) | Fisherman (Gen 5) | Mashirosakura |
 | ![Fisherman (Gen 6)](graphics/object_events/pics/people/fishermangen6_m.png) | Fisherman (Gen 6) | aveontrainer |
 | ![Sailor (Gen 4)](graphics/object_events/pics/people/sailorgen4_m.png) | Sailor (Gen 4) | Mashirosakura |
+| ![Fisherman](graphics/object_events/pics/people/fisherman_hyo.png) | Fisherman | Hyo |
+| ![Sailor](graphics/object_events/pics/people/sailor_hyo.png) | Sailor | Hyo |
+| ![Swimmer M](graphics/object_events/pics/people/swimmer_m_hyo.png) | Swimmer M | Hyo |
+| ![Swimmer F](graphics/object_events/pics/people/swimmer_f_hyo.png) | Swimmer F | Hyo |
+| ![Tuber F](graphics/object_events/pics/people/tuber_f_hyo.png) | Tuber F | Hyo |
+| ![Tuber M](graphics/object_events/pics/people/tuber_m_hyo.png) | Tuber M | Hyo |
+| ![Tuber M - Swimming](graphics/object_events/pics/people/tuber_m_swimming_hyo.png) | Tuber M Swimming | Hyo |
 
 
 ### Tilesets
