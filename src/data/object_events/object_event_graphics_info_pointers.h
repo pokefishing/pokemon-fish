@@ -401,6 +401,14 @@ extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_UnusedMauvi
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_UnusedMauvilleOldMan2;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_ApricornTree;
 
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Fishermangen6M;
+
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Fishermangen5M;
+
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Fishermangen1M;
+
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Sailorgen4M;
+
 const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM_OBJ_EVENT_GFX] = {
     [OBJ_EVENT_GFX_BRENDAN_NORMAL] =           &gObjectEventGraphicsInfo_BrendanNormal,
     [OBJ_EVENT_GFX_BRENDAN_MACH_BIKE] =        &gObjectEventGraphicsInfo_BrendanMachBike,
@@ -791,6 +799,10 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_DEOXYS_N]                 = &gObjectEventGraphicsInfo_DeoxysN,
     [OBJ_EVENT_GFX_SS_ANNE]                  = &gObjectEventGraphicsInfo_SSAnne,
 #endif // IS_FRLG
+    [OBJ_EVENT_GFX_FISHERMANGEN6_M] =               &gObjectEventGraphicsInfo_Fishermangen6M,
+    [OBJ_EVENT_GFX_FISHERMANGEN5_M] =               &gObjectEventGraphicsInfo_Fishermangen5M,
+    [OBJ_EVENT_GFX_FISHERMANGEN1_M] =               &gObjectEventGraphicsInfo_Fishermangen1M,
+    [OBJ_EVENT_GFX_SAILORGEN4_M] =               &gObjectEventGraphicsInfo_Sailorgen4M,
 };
 
 const struct ObjectEventGraphicsInfo *const gMauvilleOldManGraphicsInfoPointers[] = {

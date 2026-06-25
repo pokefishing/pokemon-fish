@@ -2496,3 +2496,19 @@ static const struct SpriteFrameImage sPicTable_MomFrlg[] = {
 };
 
 #endif // IS_FRLG
+
+static const struct SpriteFrameImage sPicTable_Fishermangen6M[] = {
+    overworld_ascending_frames(gObjectEventPic_Fishermangen6M, 2, 4),
+};
+
+static const struct SpriteFrameImage sPicTable_Fishermangen5M[] = {
+    overworld_ascending_frames(gObjectEventPic_Fishermangen5M, 2, 4),
+};
+
+static const struct SpriteFrameImage sPicTable_Fishermangen1M[] = {
+    overworld_ascending_frames(gObjectEventPic_Fishermangen1M, 2, 4),
+};
+
+static const struct SpriteFrameImage sPicTable_Sailorgen4M[] = {
+    overworld_ascending_frames(gObjectEventPic_Sailorgen4M, 2, 4),
+};
