@@ -211,6 +211,13 @@ extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Azumarill;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Wingull;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_KecleonBridgeShadow;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_TuberMSwimming;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_FishermanHyo;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_SailorHyo;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_SwimmerMHyo;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_SwimmerFHyo;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_TuberFHyo;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_TuberMHyo;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_TuberMSwimmingHyo;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Azurill;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Mom;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_LinkBrendan;
@@ -645,6 +652,13 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_OW_MON] =                   &gObjectEventGraphicsInfo_Follower,
     [OBJ_EVENT_GFX_LIGHT_SPRITE] =             &gObjectEventGraphicsInfo_BallLight,
     [OBJ_EVENT_GFX_APRICORN_TREE] =            &gObjectEventGraphicsInfo_ApricornTree,
+    [OBJ_EVENT_GFX_FISHERMAN_HYO] =           &gObjectEventGraphicsInfo_FishermanHyo,
+    [OBJ_EVENT_GFX_SAILOR_HYO] =              &gObjectEventGraphicsInfo_SailorHyo,
+    [OBJ_EVENT_GFX_SWIMMER_M_HYO] =           &gObjectEventGraphicsInfo_SwimmerMHyo,
+    [OBJ_EVENT_GFX_SWIMMER_F_HYO] =           &gObjectEventGraphicsInfo_SwimmerFHyo,
+    [OBJ_EVENT_GFX_TUBER_F_HYO] =             &gObjectEventGraphicsInfo_TuberFHyo,
+    [OBJ_EVENT_GFX_TUBER_M_HYO] =             &gObjectEventGraphicsInfo_TuberMHyo,
+    [OBJ_EVENT_GFX_TUBER_M_SWIMMING_HYO] =    &gObjectEventGraphicsInfo_TuberMSwimmingHyo,
 #if IS_FRLG
     [OBJ_EVENT_GFX_RED_NORMAL] =               &gObjectEventGraphicsInfo_RedNormal,
     [OBJ_EVENT_GFX_RED_BIKE] =                 &gObjectEventGraphicsInfo_RedBike,

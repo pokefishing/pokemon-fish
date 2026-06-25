@@ -1008,6 +1008,34 @@ static const struct SpriteFrameImage sPicTable_TuberMSwimming[] = {
     overworld_ascending_frames(gObjectEventPic_TuberMSwimming, 2, 2),
 };
 
+static const struct SpriteFrameImage sPicTable_FishermanHyo[] = {
+    overworld_ascending_frames(gObjectEventPic_FishermanHyo, 2, 4),
+};
+
+static const struct SpriteFrameImage sPicTable_SailorHyo[] = {
+    overworld_ascending_frames(gObjectEventPic_SailorHyo, 2, 4),
+};
+
+static const struct SpriteFrameImage sPicTable_SwimmerMHyo[] = {
+    overworld_ascending_frames(gObjectEventPic_SwimmerMHyo, 2, 4),
+};
+
+static const struct SpriteFrameImage sPicTable_SwimmerFHyo[] = {
+    overworld_ascending_frames(gObjectEventPic_SwimmerFHyo, 2, 4),
+};
+
+static const struct SpriteFrameImage sPicTable_TuberFHyo[] = {
+    overworld_ascending_frames(gObjectEventPic_TuberFHyo, 2, 2),
+};
+
+static const struct SpriteFrameImage sPicTable_TuberMHyo[] = {
+    overworld_ascending_frames(gObjectEventPic_TuberMHyo, 2, 2),
+};
+
+static const struct SpriteFrameImage sPicTable_TuberMSwimmingHyo[] = {
+    overworld_ascending_frames(gObjectEventPic_TuberMSwimmingHyo, 2, 2),
+};
+
 static const struct SpriteFrameImage sPicTable_Mom[] = {
     overworld_ascending_frames(gObjectEventPic_Mom, 2, 4),
 };
