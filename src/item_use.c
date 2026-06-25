@@ -1,4 +1,6 @@
 #include "global.h"
+#include "constants/global.h"
+#include "global.fieldmap.h"
 #include "item_use.h"
 #include "battle.h"
 #include "battle_anim.h"
@@ -320,6 +322,16 @@ static bool32 CanFish(void)
 
     GetXYCoordsOneStepInFrontOfPlayer(&x, &y);
     tileBehavior = MapGridGetMetatileBehaviorAt(x, y);
+
+    u32 objectEventId = GetObjectEventIdByXY(x, y);
+
+    if (objectEventId != OBJECT_EVENTS_COUNT)
+    {
+        u8 localId = gObjectEvents[objectEventId].localId;
+        u8 mapNum = gObjectEvents[objectEventId].mapNum;
+        u8 mapGroup = gObjectEvents[objectEventId].mapGroup;
+        return GetObjectEventTemplateByLocalIdAndMap(localId, mapNum, mapGroup)->fishable;
+    }
 
     if (MetatileBehavior_IsWaterfall(tileBehavior))
         return FALSE;
