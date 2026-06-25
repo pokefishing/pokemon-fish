@@ -1,2 +1,0 @@
-fish_SewerClean_MapScripts::
-	.byte 0

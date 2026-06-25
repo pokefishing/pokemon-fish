@@ -4,11 +4,13 @@ on:
   push:
     branches:
       - master
+      - main
       - ci/*
       - merge/*
   pull_request:
       branches:
         - master
+        - main
 
 env:
   GAME_REVISION: 0

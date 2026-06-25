@@ -477,6 +477,19 @@ const u32 gObjectEventPic_ApricornTree[] = INCGFX_U32("graphics/object_events/pi
 
 const u32 gFieldEffectObjectPic_ShinySparkle[] = INCGFX_U32("graphics/field_effects/pics/shiny_sparkle.png", ".4bpp", "-mwidth 2 -mheight 4");
 
+const u32 gObjectEventPic_Fishermangen6M[] = INCGFX_U32("graphics/object_events/pics/people/fishermangen6_m.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Fishermangen6M[] = INCGFX_U16("graphics/object_events/pics/people/fishermangen6_m.png", ".gbapal");
+
+const u32 gObjectEventPic_Fishermangen5M[] = INCGFX_U32("graphics/object_events/pics/people/fishermangen5_m.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Fishermangen5M[] = INCGFX_U16("graphics/object_events/pics/people/fishermangen5_m.png", ".gbapal");
+
+const u32 gObjectEventPic_Fishermangen1M[] = INCGFX_U32("graphics/object_events/pics/people/fishermangen1_m.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Fishermangen1M[] = INCGFX_U16("graphics/object_events/pics/people/fishermangen1_m.png", ".gbapal");
+
+const u32 gObjectEventPic_Sailorgen4M[] = INCGFX_U32("graphics/object_events/pics/people/sailorgen4_m.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Sailorgen4M[] = INCGFX_U16("graphics/object_events/pics/people/sailorgen4_m.png", ".gbapal");
+
+
 #if IS_FRLG
 
 const u16 gObjectEventPic_RedNormal[] = INCGFX_U16("graphics/object_events/pics/people/red/red_normal.png", ".4bpp", "-mwidth 2 -mheight 4");
